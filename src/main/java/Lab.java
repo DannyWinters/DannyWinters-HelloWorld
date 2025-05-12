@@ -1,6 +1,6 @@
 public class Lab {
     /**
-     * TODO: Change this method so that it returns "Hello, world!"
+     * TO DO: Change this method so that it returns "Hello, world!"
      *
      * This method currently contains the line:
      * return "change me";
@@ -12,9 +12,9 @@ public class Lab {
      * "change me". A test case will check if the behavior is as expected.
      * You should use the test results to check for differences.
      * 
-     * @return "Hello, world!"
+     * @return "Hello, World!"
      */
     public String sayHello(){
-        return "change me";
+        return "Hello, world!";
     }
 }
